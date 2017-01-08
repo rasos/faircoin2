@@ -125,8 +125,8 @@ CVN operators can request removal if they are no longer willing or able to run a
 The removal of a CVN will be performed by the chain administrators.
 
 ### 4.6 How to join
-If you are interested in setting up a CVN, write us at cvn@fair-coin.org. Around the 7th to the 8th of September 2016 we are going to publish a form to officialy begin the process of CVN acceptance, and we will notify you to fill in the application form as it comes available.
+If you are interested in setting up a CVN, please fill out the form here https://ocp.freedomcoop.eu/joinaproject/faircoin2-cvn-operators/. 
 
 We will be able to begin when at least 15 CVN are ready. After that, the open process will continue to welcome more CVNs to secure the network further.
 
-More information and discussion is avaiable here: https://fair.coop/groups/faircoop-community/faircoin/faircoin2/
+More information and discussion is avaiable here: https://fair.coop/groups/faircoop-community/faircoin/faircoin2/ or contact us  at cvn@fair-coin.org .
