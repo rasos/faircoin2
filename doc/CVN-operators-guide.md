@@ -35,9 +35,9 @@ Make sure your Fasito is connected to your system and is working properly. You c
 minicom -D /dev/ttyACM0
 ```
 
-First type ```HELP``` (all upper-case!) and press enter. This will display a list of all commands.
+First type ```HELP``` (all upper-case!) and press enter. This will display a list of all commands. The line cvn=fasito in the config file will extend the full node into a certified validation node. 
 
-### 2.3 The first start of your node
+### 2.3 Adapt config, connect Fasito and trigger initial run
 Create a configuration file in the data directory of FairCoin and copy-and-paste the following command sequence in your terminal:
 
 ```
