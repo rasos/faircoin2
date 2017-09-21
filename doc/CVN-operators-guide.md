@@ -20,7 +20,7 @@ A secure and stable operating system is crucial for reliably running a CVN. Ther
 6. The hardware must provide a USB 2.0 port which takes up the Fasito USB token. Please avoid using a USB-hub for the token.
 7. Although not absolutely necessary, a UPS (uninterruptible power supply) would be appreciated. Note that all network related equipment should also be hooked up to the UPS to keep the network connection up in the event of a power outage.
 
-A CVN can run on a RaspBerry 3, however we recommend some more decent hardware. 
+A CVN can run on a Raspberry Pi 3, however we recommend some more decent hardware. 
 
 ### 2.2 Preparing your system
 
@@ -80,14 +80,14 @@ We expect that in the short term, this will not be enough to cover electricity c
 
 When the profit exceeds the investment, the open FairCoop assembly could decide to reduce the fees or to pool a part of the incomes for FairCoin development or infrastructure costs. Also, in the future we may agree on using other methodologies for avoiding spam risks and to cover the CVN expenses.
 
-Fees are mandatory and dynamically adjustable. The effective fee per Kb is decided in the FairCoop assembly. On June 16th 2016, in a corresponding assembly (https://fair.coop/docs/minutes-of-the-10th-faircoop-open-assembly/) it has been decided to start with a fee of 0.1 FAIR per 1000 bytes. Due to the value increase, the decision has ben revised in the June assembly 2017 (https://board.net/p/r.43161932a89400cc42bdae476265011c) just before the launch of the Proof-of-Cooperation mechanism to 0.01 FAIR. 
+Fees are mandatory and dynamically adjustable. The effective fee per Kb is decided in the FairCoop assembly. On June 16th 2016, in a corresponding assembly (https://fair.coop/docs/minutes-of-the-10th-faircoop-open-assembly/) it has been decided to start with a fee of 0.1 FAIR per 1000 bytes. Due to the value increase, the decision has ben revised in the June assembly 2017 (https://board.net/p/r.43161932a89400cc42bdae476265011c) just before the launch of the Proof-of-Cooperation mechanism to 0.01 FAIR/kb. 
 
 ## 4. Organizational process for running a CVN
 
 ### 4.1  Socio-political criteria for running a CVN
 We are performing peer investigations and are following some KYCVN criteria ("Know your CVN") and want to know the motivations. This means that online or physically, some questions are asked to get to know the people or groups applying to run a CVN.
 
-Online information like a website, profiles in social networks like fair.coop, bitcointalk, twitter, facebook, etc. help to find out more about an applicant. ideally, applicants should visit a FairCoop local node nearby or meet a person who is already involved in FairCoin development, commuication or running a CVN. This helps to get to know them better and thus ensure that CVN operators have the right intentions.
+Online information like a website, profiles in social networks like fair.coop, bitcointalk, twitter, facebook, etc. help to find out more about an applicant. Ideally, applicants should visit a FairCoop local node nearby or meet a person who is already involved in FairCoin development, commuication or running a CVN. This helps to get to know them better and thus ensure that CVN operators have the right intentions.
 
 Positive criteria for CVN acceptance could be:
 
